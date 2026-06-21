@@ -1,13 +1,13 @@
-# Scribble — Page Notes
+# Scribble - Page Notes
 
 A Chrome extension that lets you highlight text, attach notes, and draw freehand directly on any webpage — and have it all persist exactly where you left it, every time you revisit that page.
 
 ## What it does
 
-- **Highlight text** — select/drag across any text on a page and it's instantly highlighted
-- **Attach notes** — a small 📝 icon appears next to every highlight; click it to write a note tied to that exact spot
-- **Freehand drawing** — toggle draw mode from the floating toolbar and sketch directly on top of the page, with an eraser, undo, and redo
-- **Persistence** — highlights, notes, and drawings are saved per-URL using `chrome.storage.local`, so they're automatically restored the next time you open that page
+- **Highlight text** - select/drag across any text on a page and it's instantly highlighted
+- **Attach notes** - a small 📝 icon appears next to every highlight; click it to write a note tied to that exact spot
+- **Freehand drawing** - toggle draw mode from the floating toolbar and sketch directly on top of the page, with an eraser, undo, and redo
+- **Persistence** - highlights, notes, and drawings are saved per-URL using `chrome.storage.local`, so they're automatically restored the next time you open that page
 
 Everything lives directly on the page itself — no sidebar, no separate app. It works on any site.
 
