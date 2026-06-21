@@ -32,7 +32,6 @@ Everything lives directly on the page itself — no sidebar, no separate app. It
 - Click the ✏️ button in the floating toolbar (bottom-right of the page) to turn on draw mode
 - Click and drag your mouse to draw freehand
 - Use 🧽 to erase parts of your drawing
-- Use ↩️ / ↪️ to undo/redo strokes, or `Ctrl+Z` / `Ctrl+Shift+Z` (⌘ on Mac)
 - Click ✏️ again to turn off draw mode and interact with the page normally
 
 All annotations reload automatically the next time you visit the same URL.
